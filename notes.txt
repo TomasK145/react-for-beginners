@@ -1,0 +1,12 @@
+package.json
+--> devDependencies 
+    --> dependencies pre vyvojove ucely
+    --> react-scripts --> abstrakcia pre webpack a babel ???
+--> dependencies 
+    --> pre ucely aplikacie, pre moznost spustenia
+    --> autoprefixer-stylus --> stylovanie
+    --> firebase --> DB
+--> npm install 
+    --> zabezpeci instalaciu packagov podla definicia v package.json
+--> npm start (react-scripts start)
+    --> zabezpeci spustenie scriptu definovaneho v package.json
